@@ -68,9 +68,6 @@
     "mitt": "^1.1.3",
     "@livecycle.io/rrweb-snapshot": "^1.1.7"
   },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
-  },
   "directories": {
     "doc": "docs",
     "lib": "lib",
