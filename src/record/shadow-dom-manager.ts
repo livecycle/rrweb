@@ -11,7 +11,7 @@ import {
   SlimDOMOptions,
   MaskTextFn,
   MaskInputFn,
-} from 'rrweb-snapshot';
+} from '@livecycle/rrweb-snapshot';
 import { IframeManager } from './iframe-manager';
 import { initMutationObserver, initScrollObserver } from './observer';
 

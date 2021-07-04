@@ -6,7 +6,7 @@ import {
   SlimDOMOptions,
   MaskInputFn,
   MaskTextFn,
-} from 'rrweb-snapshot';
+} from '@livecycle/rrweb-snapshot';
 import { PackFn, UnpackFn } from './packer/base';
 import { FontFaceDescriptors } from 'css-font-loading-module';
 import { IframeManager } from './record/iframe-manager';

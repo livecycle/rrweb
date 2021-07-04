@@ -22,7 +22,7 @@ import {
   serializedNodeWithId,
   NodeType,
   isShadowRoot,
-} from 'rrweb-snapshot';
+} from '@livecycle/rrweb-snapshot';
 
 export function on(
   type: string,

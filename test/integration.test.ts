@@ -7,7 +7,7 @@ import { assertSnapshot, launchPuppeteer } from './utils';
 import { Suite } from 'mocha';
 import { expect } from 'chai';
 import { recordOptions, eventWithTime, EventType } from '../src/types';
-import { visitSnapshot, NodeType } from 'rrweb-snapshot';
+import { visitSnapshot, NodeType } from '@livecycle/rrweb-snapshot';
 
 interface ISuite extends Suite {
   server: http.Server;

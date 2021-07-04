@@ -10,7 +10,7 @@ import {
   maskInputValue,
   MaskTextFn,
   MaskInputFn,
-} from 'rrweb-snapshot';
+} from '@livecycle/rrweb-snapshot';
 import {
   mutationRecord,
   blockClass,

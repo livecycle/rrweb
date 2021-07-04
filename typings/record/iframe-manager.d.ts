@@ -1,4 +1,4 @@
-import { serializedNodeWithId, INode } from 'rrweb-snapshot';
+import { serializedNodeWithId, INode } from '@livecycle/rrweb-snapshot';
 import { mutationCallBack } from '../types';
 export declare class IframeManager {
     private iframes;

@@ -5,7 +5,7 @@ import {
   maskInputValue,
   MaskInputFn,
   MaskTextFn,
-} from 'rrweb-snapshot';
+} from '@livecycle/rrweb-snapshot';
 import { FontFaceDescriptors, FontFaceSet } from 'css-font-loading-module';
 import {
   throttle,

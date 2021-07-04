@@ -1,5 +1,5 @@
 import { mutationCallBack, blockClass, maskTextClass, Mirror, scrollCallback, SamplingStrategy } from '../types';
-import { MaskInputOptions, SlimDOMOptions, MaskTextFn, MaskInputFn } from 'rrweb-snapshot';
+import { MaskInputOptions, SlimDOMOptions, MaskTextFn, MaskInputFn } from '@livecycle/rrweb-snapshot';
 import { IframeManager } from './iframe-manager';
 declare type BypassOptions = {
     blockClass: blockClass;
