@@ -1,5 +1,5 @@
 import { SnapshotState, toMatchSnapshot } from 'jest-snapshot';
-import { NodeType } from '@livecycle/rrweb-snapshot';
+import { NodeType } from '@livecycle.io/rrweb-snapshot';
 import { assert } from 'chai';
 import {
   EventType,

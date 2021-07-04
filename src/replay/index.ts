@@ -1,4 +1,4 @@
-import { rebuild, buildNodeWithSN, INode, NodeType } from '@livecycle/rrweb-snapshot';
+import { rebuild, buildNodeWithSN, INode, NodeType } from '@livecycle.io/rrweb-snapshot';
 import * as mittProxy from 'mitt';
 import { polyfill as smoothscrollPolyfill } from './smoothscroll';
 import { Timer } from './timer';

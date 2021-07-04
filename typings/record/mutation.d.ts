@@ -1,4 +1,4 @@
-import { MaskInputOptions, SlimDOMOptions, MaskTextFn, MaskInputFn } from '@livecycle/rrweb-snapshot';
+import { MaskInputOptions, SlimDOMOptions, MaskTextFn, MaskInputFn } from '@livecycle.io/rrweb-snapshot';
 import { mutationRecord, blockClass, maskTextClass, mutationCallBack, Mirror } from '../types';
 import { IframeManager } from './iframe-manager';
 import { ShadowDomManager } from './shadow-dom-manager';
